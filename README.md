@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-!Hello everyone, my name is vivek and I am a full stack web developer with a passion for both backend and frontend development. I am particularly interested in the MERN stack and have built several projects using this technology. I am constantly learning and expanding my skillset in the field of web development and am always excited to take on new challenges and projects. Thank you for reading and I look forward to connecting with you.
+Hello everyone, my name is vivek and I am a full stack web developer with a passion for both backend and frontend development. I am particularly interested in the MERN stack and have built several projects using this technology. I am constantly learning and expanding my skillset in the field of web development and am always excited to take on new challenges and projects. Thank you for reading and I look forward to connecting with you.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-chaturvedi903/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@vivekchaturvedi3476) 
