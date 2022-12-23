@@ -17,6 +17,6 @@ Hello everyone, my name is vivek and I am a full stack web developer with a pass
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vc8bp&icon=0&color=0)]
+![](https://visitcount.itsvg.in/api?id=vc8bp&icon=0&color=0)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
