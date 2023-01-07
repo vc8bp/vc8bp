@@ -20,7 +20,8 @@
 
 ---
 <div align="center">
-	![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)<br>
+	<img src="https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif" />
+	<br>
 	<img src="https://profile-counter.glitch.me/vc8bp/count.svg" />
 <div/>
 
