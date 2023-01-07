@@ -1,6 +1,9 @@
-### Hi there 👋
+ ### Hi there 👋
+<div>
+  <img width="400px" align="right" src="https://cdn.tomondre.com/this-is-fine.jpg" />  
+  Hello everyone, my name is vivek and I am a full stack web developer with a passion for both backend and frontend development. I am particularly interested in the     MERN stack and have built several projects using this technology. I am constantly learning and expanding my skillset in the field of web development and am always     excited to take on new challenges and projects. Thank you for reading and I look forward to connecting with you.
+<div/>
 
-Hello everyone, my name is vivek and I am a full stack web developer with a passion for both backend and frontend development. I am particularly interested in the MERN stack and have built several projects using this technology. I am constantly learning and expanding my skillset in the field of web development and am always excited to take on new challenges and projects. Thank you for reading and I look forward to connecting with you.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-chaturvedi903/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@vivekchaturvedi3476) 
@@ -13,10 +16,13 @@ Hello everyone, my name is vivek and I am a full stack web developer with a pass
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vc8bp&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vc8bp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 ---
-![](https://visitcount.itsvg.in/api?id=vc8bp&icon=0&color=0)
+<div align="center">
+	![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)<br>
+	<img src="https://profile-counter.glitch.me/vc8bp/count.svg" />
+<div/>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
