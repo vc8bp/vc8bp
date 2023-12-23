@@ -1,6 +1,7 @@
+
  ### Hi there 👋
-<div>
-  <img width="400px" align="right" src="https://cdn.tomondre.com/this-is-fine.jpg" />  
+<div align="center" >
+  <img width="80%" src="https://cdn.tomondre.com/this-is-fine.jpg" />  
 <div/>
 
 
