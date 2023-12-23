@@ -2,7 +2,7 @@
  ### Hi there 👋
 <div align="center" >
   <img width="80%" src="https://cdn.tomondre.com/this-is-fine.jpg" />  
-<div/>
+</div>
 
 
 ## 🌐 Socials:
